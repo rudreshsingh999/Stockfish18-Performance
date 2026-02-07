@@ -1,0 +1,807 @@
+{
+  "stockfish17_wins": 10,
+  "stockfish18_wins": 17,
+  "draws": 73,
+  "games": [
+    {
+      "game_number": 1,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 108,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 2,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 203,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 3,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 160,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 4,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 94,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 5,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 73,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 6,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 140,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 7,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 184,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 8,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 111,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 9,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 70,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 10,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 127,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 11,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 56,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 12,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 159,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 13,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 69,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 14,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 102,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 15,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 91,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 16,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 214,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 17,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 258,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 18,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 118,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 19,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 17",
+      "moves": 211,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 20,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 266,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 21,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 115,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 22,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 179,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 23,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 215,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 24,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 252,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 25,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 128,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 26,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 146,
+      "termination": "STALEMATE"
+    },
+    {
+      "game_number": 27,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 63,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 28,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 131,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 29,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 126,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 30,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 297,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 31,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 131,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 32,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 285,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 33,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 404,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 34,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 130,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 35,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 137,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 36,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 187,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 37,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 108,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 38,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 193,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 39,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 159,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 40,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 87,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 41,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 82,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 42,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 418,
+      "termination": "STALEMATE"
+    },
+    {
+      "game_number": 43,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 232,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 44,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 233,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 45,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 72,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 46,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 171,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 47,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 17",
+      "moves": 173,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 48,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 173,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 49,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 52,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 50,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 299,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 51,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 202,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 52,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 149,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 53,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 305,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 54,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 172,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 55,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 130,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 56,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 248,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 57,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 92,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 58,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 137,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 59,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 101,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 60,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 322,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 61,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 164,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 62,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 109,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 63,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 142,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 64,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 124,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 65,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 121,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 66,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 125,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 67,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 17",
+      "moves": 253,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 68,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 17",
+      "moves": 224,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 69,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 146,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 70,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 163,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 71,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 114,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 72,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 166,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 73,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 384,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 74,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 134,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 75,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 109,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 76,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 110,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 77,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 130,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 78,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 360,
+      "termination": "STALEMATE"
+    },
+    {
+      "game_number": 79,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 119,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 80,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 87,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 81,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 57,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 82,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 179,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 83,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Stockfish 18",
+      "moves": 196,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 84,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Stockfish 18",
+      "moves": 235,
+      "termination": "CHECKMATE"
+    },
+    {
+      "game_number": 85,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 126,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 86,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 107,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 87,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 108,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 88,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 191,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 89,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 126,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 90,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 123,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 91,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 205,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 92,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 112,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 93,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 244,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 94,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 122,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 95,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 92,
+      "termination": "FIVEFOLD_REPETITION"
+    },
+    {
+      "game_number": 96,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 132,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 97,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 235,
+      "termination": "STALEMATE"
+    },
+    {
+      "game_number": 98,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 244,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 99,
+      "white": "Stockfish 17",
+      "black": "Stockfish 18",
+      "winner": "Draw",
+      "moves": 129,
+      "termination": "INSUFFICIENT_MATERIAL"
+    },
+    {
+      "game_number": 100,
+      "white": "Stockfish 18",
+      "black": "Stockfish 17",
+      "winner": "Draw",
+      "moves": 120,
+      "termination": "FIVEFOLD_REPETITION"
+    }
+  ]
+}
